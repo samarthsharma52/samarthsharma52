@@ -59,8 +59,8 @@ I am a results-driven **Software Developer** with 1.5 years of experience buildi
 ---
 
 ### 📫 Connect With Me
-*   **LinkedIn:** [Your LinkedIn Profile Link]
-*   **Email:** [Your Email Address]
+*   **LinkedIn:** https://www.linkedin.com/in/samarth-sharma-b52480213/
+*   **Email:** samarthsharma273@gmail.com
 *   **Location:** Dehradun, Uttarakhand
 
 ---
